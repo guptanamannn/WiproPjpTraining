@@ -1,0 +1,1 @@
+select job,sum(salary) as Totalsalary from employee group by job

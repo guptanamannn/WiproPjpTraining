@@ -1,0 +1,56 @@
+<html>
+<title>E1
+	</title>
+	<BODY>
+		<form method="post" name="form1" onsubmit="return validf();" action="">
+			<table>
+				<tr>
+					<td>
+						Member number: 
+					</td>
+					<td>
+						<input type="text" name = "mem" >
+					</td>
+				</tr>
+				<tr>
+					<td>
+						Password: 
+					</td>
+					<td>
+						<input type="Password" name="pas">
+					</td>
+				</tr>
+				<tr>
+					<td> 
+					</td>
+					<td>
+						<button type="submit">Submit</button>
+					</td>
+				</tr>
+			</table>
+		</form>
+		<script type="text/javascript">
+			function validf(){
+				regex = "^/[0-9]+/$";
+				var n1 = document.form1.mem.value;
+				var n2 = document.form1.pas.value;
+				if(n1.length==0||n2.length==0){
+					alert("Please Fill all Input Fields");
+					return false;
+				}
+				if(isNaN(n1)){
+					alert("Only numbers are allowed");
+					return false;
+				}
+				if(n2.length<5&&n2.length>0){
+					alert("Password must be greater than 4");
+					return false;
+				}
+				return true;
+			}
+			
+			
+		</script>
+
+	</BODY>
+</html>

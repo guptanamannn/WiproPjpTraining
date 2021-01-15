@@ -1,0 +1,3 @@
+var date = Java.type("java.util.Date");
+d = new Date();
+print(d);

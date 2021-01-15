@@ -1,0 +1,1 @@
+select * from Employees where Hiredate>1-12-90

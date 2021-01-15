@@ -1,0 +1,7 @@
+C:\Users\Gupta\source\repos\q1\q1\obj\Debug\netcoreapp3.1\q1.AssemblyInfoInputs.cache
+C:\Users\Gupta\source\repos\q1\q1\obj\Debug\netcoreapp3.1\q1.AssemblyInfo.cs
+C:\Users\Gupta\source\repos\q1\q1\obj\Debug\netcoreapp3.1\q1.csproj.CoreCompileInputs.cache
+C:\Users\Gupta\Desktop\PBLWiproDotNet-master\Inheritance, Polymorphism and Exception handling\q1\q1\obj\Debug\netcoreapp3.1\q1.csprojAssemblyReference.cache
+C:\Users\Gupta\Desktop\PBLWiproDotNet-master\Inheritance, Polymorphism and Exception handling\q1\q1\obj\Debug\netcoreapp3.1\q1.AssemblyInfoInputs.cache
+C:\Users\Gupta\Desktop\PBLWiproDotNet-master\Inheritance, Polymorphism and Exception handling\q1\q1\obj\Debug\netcoreapp3.1\q1.AssemblyInfo.cs
+C:\Users\Gupta\Desktop\PBLWiproDotNet-master\Inheritance, Polymorphism and Exception handling\q1\q1\obj\Debug\netcoreapp3.1\q1.csproj.CoreCompileInputs.cache

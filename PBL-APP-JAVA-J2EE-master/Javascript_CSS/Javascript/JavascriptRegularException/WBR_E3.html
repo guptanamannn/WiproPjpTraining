@@ -1,0 +1,35 @@
+<html>
+<title>E3
+	</title>
+	<BODY>
+		<form method="post" name="myForm" onsubmit="return checkPass()">
+			<table>
+				<tr>
+					<td>
+						Password : 
+					</td>
+					<td>
+						<input type="password" id = "pas" >
+					</td>
+				</tr>
+				<tr>
+					<td> 
+					</td>
+					<td>
+						<button type="submit">Submit</button>
+					</td>
+				</tr>
+			</table>
+		</form>
+		<script type="text/javascript">
+    
+    function checkPass() {
+        var phone = document.forms["myForm"]["pas"].value;
+        var reg1 = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)[a-zA-Z0-9]{6,20}$/; 
+            if(!reg1.test(phone)){
+            	alert("Please Enter in Correct format");
+            }
+        }
+</script>
+	</BODY>
+</html>

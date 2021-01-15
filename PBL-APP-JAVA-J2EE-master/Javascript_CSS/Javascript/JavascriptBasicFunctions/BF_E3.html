@@ -1,0 +1,25 @@
+<html>
+<title>
+	E3
+</title>
+<body>
+	<h3>
+		Checking string if palindrome or not
+	</h3>
+	<p>Enter String: <input type="text" id="string"> <input type="button" onclick="palindrom()" value="Submit"></p>
+	<p id="result"></p> 
+		<script type="text/javascript">
+			function palindrom(){
+				var s = document.getElementById("string").value;
+			var r = s.split("").reverse().join("");
+			var n="";
+			if(s==r){
+				n = "Given String is Palindrome";
+			}else{
+				 n="Given String is not palindrome";
+			}
+			document.getElementById("result").innerHTML = n;
+			}
+		</script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<html>
+<body>
+	<h3>Show Current Time</h3>
+	Time: <input type="text" id="time">
+	<script type="text/javascript">
+
+function startTime() {
+  var today = new Date();
+  var h = today.getHours();
+  var m = today.getMinutes();
+  var s = today.getSeconds();
+  document.getElementById('time').value = h + ":" + m + ":" + s;
+  t = setTimeout(function() 
+  	{
+  		startTime()
+  	}, 500);
+}
+startTime();
+	</script>
+	</body>
+</html>

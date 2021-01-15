@@ -1,0 +1,1 @@
+select title from titles where titles.pub_id not in (select publishers.pub_id from publishers where pub_name='algodata infosystems')

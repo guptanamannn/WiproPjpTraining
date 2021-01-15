@@ -1,0 +1,1 @@
+select title from titles where price >(select max(price) from titles where type='business')

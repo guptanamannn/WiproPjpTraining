@@ -1,0 +1,9 @@
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q7\q7\obj\Debug\q7.Properties.Resources.resources
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q7\q7\obj\Debug\q7.csproj.GenerateResource.cache
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q7\q7\obj\Debug\q7.csproj.CoreCompileInputs.cache
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q7\q7\bin\Debug\q7.exe.config
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q7\q7\bin\Debug\q7.exe
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q7\q7\bin\Debug\q7.pdb
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q7\q7\obj\Debug\q7.Form1.resources
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q7\q7\obj\Debug\q7.exe
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q7\q7\obj\Debug\q7.pdb

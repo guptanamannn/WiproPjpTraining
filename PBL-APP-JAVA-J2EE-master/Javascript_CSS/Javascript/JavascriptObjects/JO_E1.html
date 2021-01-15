@@ -1,0 +1,32 @@
+<html>
+<title>
+	E1
+</title>
+<body>
+
+	<h3>
+		Find Position of word in a string.
+	</h3>
+	<p>Enter String: <input type="text" id="string"> <input type="button" onclick="palindrom1()" value="Submit"></p>
+	<p>Postion of World is: <span id="result"></span> </p>
+	<script type="text/javascript">
+			function palindrom1(){
+				var s = document.getElementById("string").value;
+				var arr = s.split(" ");
+				var x = arr.length;
+				var pos=0;
+				var r=0;
+				for(var i=0;i<x;i++){
+					if(arr[i]=="World"){
+						pos = pos+r;
+					}
+					else{
+						r=r+arr[i].length+1;
+					}
+				}
+				document.getElementById("result").innerHTML = pos;
+			}
+		</script>
+		
+</body>
+</html>

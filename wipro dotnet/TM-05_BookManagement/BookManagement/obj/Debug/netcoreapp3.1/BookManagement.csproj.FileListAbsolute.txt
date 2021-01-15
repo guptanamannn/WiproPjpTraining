@@ -1,0 +1,11 @@
+C:\Users\adithya\Desktop\bharath wipro\BookManagement\BookManagement\bin\Debug\netcoreapp3.1\BookManagement.exe
+C:\Users\adithya\Desktop\bharath wipro\BookManagement\BookManagement\bin\Debug\netcoreapp3.1\BookManagement.deps.json
+C:\Users\adithya\Desktop\bharath wipro\BookManagement\BookManagement\bin\Debug\netcoreapp3.1\BookManagement.runtimeconfig.json
+C:\Users\adithya\Desktop\bharath wipro\BookManagement\BookManagement\bin\Debug\netcoreapp3.1\BookManagement.runtimeconfig.dev.json
+C:\Users\adithya\Desktop\bharath wipro\BookManagement\BookManagement\bin\Debug\netcoreapp3.1\BookManagement.dll
+C:\Users\adithya\Desktop\bharath wipro\BookManagement\BookManagement\bin\Debug\netcoreapp3.1\BookManagement.pdb
+C:\Users\adithya\Desktop\bharath wipro\BookManagement\BookManagement\obj\Debug\netcoreapp3.1\BookManagement.csprojAssemblyReference.cache
+C:\Users\adithya\Desktop\bharath wipro\BookManagement\BookManagement\obj\Debug\netcoreapp3.1\BookManagement.AssemblyInfoInputs.cache
+C:\Users\adithya\Desktop\bharath wipro\BookManagement\BookManagement\obj\Debug\netcoreapp3.1\BookManagement.AssemblyInfo.cs
+C:\Users\adithya\Desktop\bharath wipro\BookManagement\BookManagement\obj\Debug\netcoreapp3.1\BookManagement.dll
+C:\Users\adithya\Desktop\bharath wipro\BookManagement\BookManagement\obj\Debug\netcoreapp3.1\BookManagement.pdb

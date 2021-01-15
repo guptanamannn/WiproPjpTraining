@@ -1,0 +1,105 @@
+<html>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  
+  <head>
+  	<link rel="stylesheet" href="userSignUp.css">
+  </head>
+  <body>
+  	<div id="time1"> 
+  	</div>
+  	<div class="container-fluid">
+  	<form method="POST" name="myform" onsubmit="return validf()">
+  	<table class="table" style="width:50%;">
+  		<tr>
+  			<td colspan="2" style="border: 0;
+  			font-size: 20px">
+  				<b>User Signup Form</b>
+  			</td>
+  		</tr>
+  		<tr >
+  			<td class="col-lg-1">
+  				First Name: 
+  			</td>
+  			<td class="col-lg-4">
+  				<input type="text" name="fname" class="changecolor form-control">
+  			</td>
+  		</tr>
+  		<tr >
+  			<td class="col-lg-1">
+  				Last Name: 
+  			</td>
+  			<td class="col-lg-4">
+  				<input type="text" class="changecolor form-control" name="lname">
+  			</td>
+  		</tr>
+  		<tr>
+  			<td class="col-lg-1">
+  				Password: 
+  			</td>
+  			<td class="col-lg-4">
+  				<input type="password" class="changecolor form-control" name="pass">
+  			</td>
+  		</tr>
+  		<tr >
+  			<td class="col-lg-1">
+  				Confirm Password: 
+  			</td>
+  			<td class="col-lg-4">
+  				<input type="password" class="changecolor form-control" name="cpass">
+  			</td>
+  		</tr>
+  		<tr >
+  			<td class="col-lg-1">
+  				Gender:
+  			</td>
+  			<td class="col-lg-4">
+  				<input type="radio" name="gender" value="m">
+  				<label style="margin-right: 25px;">Male</label>
+  				<input type="radio" name="gender" value="f">
+  				<label>Female</label>
+  			</td>
+  		</tr>
+  		<tr >
+  			<td class="col-lg-1">
+  				Mobile Number: 
+  			</td>
+  			<td class="col-lg-4">
+  				<input type="text" class="changecolor form-control" name="phone">
+  			</td>
+  		</tr>
+  		<tr >
+  			<td class="col-lg-1">
+  				DOB: 
+  			</td>
+  			<td class="col-lg-4">
+  				<input type="text" class="changecolor form-control" name="dob">
+  			</td>
+  		</tr>
+  		<tr >
+  			<td class="col-lg-1">
+  				Email: 
+  			</td>
+  			<td class="col-lg-4">
+  				<input type="password" class="changecolor form-control" name="email">
+  			</td>
+  		</tr>
+  		<tr >
+  			<td colspan="2">
+  				<input type="submit" class="changecolorbtn btn" value="Submit">
+  			</td>
+  		</tr>
+  		<tr>
+  			<td>
+  			</td>
+  			<td>
+  				
+  			</td>
+  		</tr>
+  	</table>
+  </form>
+</div>
+<script src="userSignUp.js"></script>
+  </body>
+</html>

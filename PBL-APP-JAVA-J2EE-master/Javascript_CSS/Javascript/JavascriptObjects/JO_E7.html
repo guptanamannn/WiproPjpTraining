@@ -1,0 +1,30 @@
+<html>
+<title>
+	E7
+</title>
+<head>
+	
+	</head>
+	<body >
+		<input type="button" onclick="date()" value="Today's Date"><br><br>
+		<input type="button" onclick="name23()" value="Print Name"><br><br>
+		<input type="button" onclick="sum()" value="Print Sum"><br><br>
+		<script type="text/javascript">
+		function date(){
+			let now = new Date();
+		alert(now);
+		}
+		function name23(){
+		var name1 = prompt("Enter your name: ");
+		alert("Hello "+name1);
+		}
+		function sum(){
+			var num1 = window.prompt("Enter Number 1: ");
+		var num2 = window.prompt("Enter Number 2: ");
+		var res = parseInt(num1)+parseInt(num2);
+		alert("Sum: "+res);
+		}
+	</script>
+
+	</body>
+</html>

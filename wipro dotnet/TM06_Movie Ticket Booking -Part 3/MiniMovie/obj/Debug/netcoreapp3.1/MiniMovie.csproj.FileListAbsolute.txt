@@ -1,0 +1,13 @@
+E:\C#\MiniMovie\MiniMovie\bin\Debug\netcoreapp3.1\MiniMovie.exe
+E:\C#\MiniMovie\MiniMovie\bin\Debug\netcoreapp3.1\MiniMovie.deps.json
+E:\C#\MiniMovie\MiniMovie\bin\Debug\netcoreapp3.1\MiniMovie.runtimeconfig.json
+E:\C#\MiniMovie\MiniMovie\bin\Debug\netcoreapp3.1\MiniMovie.runtimeconfig.dev.json
+E:\C#\MiniMovie\MiniMovie\bin\Debug\netcoreapp3.1\MiniMovie.dll
+E:\C#\MiniMovie\MiniMovie\bin\Debug\netcoreapp3.1\MiniMovie.pdb
+E:\C#\MiniMovie\MiniMovie\obj\Debug\netcoreapp3.1\MiniMovie.csprojAssemblyReference.cache
+E:\C#\MiniMovie\MiniMovie\obj\Debug\netcoreapp3.1\MiniMovie.csproj.CoreCompileInputs.cache
+E:\C#\MiniMovie\MiniMovie\obj\Debug\netcoreapp3.1\MiniMovie.AssemblyInfoInputs.cache
+E:\C#\MiniMovie\MiniMovie\obj\Debug\netcoreapp3.1\MiniMovie.AssemblyInfo.cs
+E:\C#\MiniMovie\MiniMovie\obj\Debug\netcoreapp3.1\MiniMovie.dll
+E:\C#\MiniMovie\MiniMovie\obj\Debug\netcoreapp3.1\MiniMovie.pdb
+E:\C#\MiniMovie\MiniMovie\obj\Debug\netcoreapp3.1\MiniMovie.genruntimeconfig.cache

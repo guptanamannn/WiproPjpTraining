@@ -1,0 +1,23 @@
+<html>
+<title>
+	E4
+</title>
+<body>
+	<h3>
+		Capitalize every word of the string.
+	</h3>
+	<p>Enter String: <input type="text" id="string"> <input type="button" onclick="palindrome()" value="Submit"></p>
+	<p id="result"></p> 
+		<script type="text/javascript">
+			function palindrome(){
+				var s = document.getElementById("string").value;
+				var arr = s.split(" ");
+				var x = arr.length;
+				for(var i=0;i<x;i++){
+					arr[i] = arr[i][0].toUpperCase() + arr[i].substr(1);
+				}
+				document.getElementById("result").innerHTML = arr.join(" ");
+			}
+		</script>
+</body>
+</html>

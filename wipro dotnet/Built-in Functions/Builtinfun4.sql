@@ -1,0 +1,1 @@
+select lower(left(fname,1))+upper(right(fname,len(fname)-1)) Empname from employee

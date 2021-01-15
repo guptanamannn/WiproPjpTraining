@@ -1,0 +1,9 @@
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q4\q4\bin\Debug\q4.exe.config
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q4\q4\bin\Debug\q4.exe
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q4\q4\bin\Debug\q4.pdb
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q4\q4\obj\Debug\q4.Properties.Resources.resources
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q4\q4\obj\Debug\q4.csproj.GenerateResource.cache
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q4\q4\obj\Debug\q4.csproj.CoreCompileInputs.cache
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q4\q4\obj\Debug\q4.exe
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q4\q4\obj\Debug\q4.pdb
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q4\q4\obj\Debug\q4.Calculator.resources

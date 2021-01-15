@@ -1,0 +1,1 @@
+select title_id,price as oldprice,1.2*price as newprice from titles

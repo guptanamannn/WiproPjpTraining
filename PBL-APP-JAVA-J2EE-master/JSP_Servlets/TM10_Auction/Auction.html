@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<style type="text/css">
+	input{
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
+	.error{
+		color: red;
+		font-weight: bolder;
+	}
+</style>
+</head>
+<body>
+<div style='background-color: pink;    background-color: pink;
+    margin: auto;
+    width: 40%;
+    text-align: center;
+    padding: 10px;
+}
+'>
+	<h2>Welcome to Ap Auctions. Please Enter your Bid.</h2>
+	<h3 id="data_missing"></h3>
+	<div style='text-align: center'>
+		<form action="success" method="post" name="myform" onsubmit="return validf()">
+				<span class="error" id="error-id"></span>Item ID: <input type="text" id="get-id" name="id"><br>
+				<span class="error" id="error-item"></span>Item Name: <input type="text" id="get-item" name="idname"><br>
+				<span class="error" id="error-name"></span>Your Name: <input type="text" id="get-name" name="name"><br>
+				<span class="error" id="error-email"></span>Your Email Address: <input type="text" id="get-email" name="email"><br>
+				<span class="error" id="error-amount"></span>Amount Bid: <input type="text" id="get-amount" name="amount"><br>
+				<span class="error" id="error-bid"></span>Auto-increment bid to match other bidders?:<input type="checkbox" id="get-bid" name="bid"><br>
+				<input type="submit" value="Submit Bid">
+			</form>
+	</div>
+</div>
+<script type="text/javascript">
+	function validf(){
+		var error =0;
+		var a = document.getElementById('get-id').value;
+		document.getElementById('error-id').innerHTML="";
+		if(a==""||a==null){
+			error++;
+			document.getElementById('error-id').innerHTML="Required Field!";
+		}
+		var b = document.getElementById('get-item').value;
+		document.getElementById('error-item').innerHTML="";
+		if(b==null||b==""){
+			error++;
+			document.getElementById('error-item').innerHTML="Required Field!";
+		}
+		var c = document.getElementById('get-name').value;
+		document.getElementById('error-name').innerHTML="";
+		if(c==null||c==""){
+			error++;
+			document.getElementById('error-name').innerHTML="Required Field!";
+		}
+		var d = document.getElementById('get-email').value;
+		document.getElementById('error-email').innerHTML="";
+		if(d==null||d==""){
+			error++;
+			document.getElementById('error-email').innerHTML="Required Field!";
+		}
+		var e = document.getElementById('get-amount').value;
+		document.getElementById('error-amount').innerHTML="";
+		if(e==null||e==""){
+			error++;
+			document.getElementById('error-amount').innerHTML="Required Field!";
+		}
+		var f = document.getElementById('get-bid').checked;
+		document.getElementById('error-bid').checked=false;
+		if(!f){
+			error++;
+			document.getElementById('error-bid').innerHTML="Required Field!";
+		}
+		document.getElementById('data_missing').innerHTML = "";
+		if(error>0){
+			document.getElementById('data_missing').innerHTML = "<span class='error'>Required data missing!</span> Enter and Submit";
+			return false;
+		}
+		return true;
+	}
+</script>
+</body>
+</html>

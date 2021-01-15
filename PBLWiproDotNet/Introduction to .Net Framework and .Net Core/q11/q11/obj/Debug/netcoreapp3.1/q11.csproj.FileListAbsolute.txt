@@ -1,0 +1,12 @@
+C:\Users\Gupta\Desktop\Wipro\repos\q11\q11\bin\Debug\netcoreapp3.1\q11.exe
+C:\Users\Gupta\Desktop\Wipro\repos\q11\q11\bin\Debug\netcoreapp3.1\q11.deps.json
+C:\Users\Gupta\Desktop\Wipro\repos\q11\q11\bin\Debug\netcoreapp3.1\q11.runtimeconfig.json
+C:\Users\Gupta\Desktop\Wipro\repos\q11\q11\bin\Debug\netcoreapp3.1\q11.runtimeconfig.dev.json
+C:\Users\Gupta\Desktop\Wipro\repos\q11\q11\bin\Debug\netcoreapp3.1\q11.dll
+C:\Users\Gupta\Desktop\Wipro\repos\q11\q11\bin\Debug\netcoreapp3.1\q11.pdb
+C:\Users\Gupta\Desktop\Wipro\repos\q11\q11\obj\Debug\netcoreapp3.1\q11.AssemblyInfoInputs.cache
+C:\Users\Gupta\Desktop\Wipro\repos\q11\q11\obj\Debug\netcoreapp3.1\q11.AssemblyInfo.cs
+C:\Users\Gupta\Desktop\Wipro\repos\q11\q11\obj\Debug\netcoreapp3.1\q11.csproj.CoreCompileInputs.cache
+C:\Users\Gupta\Desktop\Wipro\repos\q11\q11\obj\Debug\netcoreapp3.1\q11.dll
+C:\Users\Gupta\Desktop\Wipro\repos\q11\q11\obj\Debug\netcoreapp3.1\q11.pdb
+C:\Users\Gupta\Desktop\Wipro\repos\q11\q11\obj\Debug\netcoreapp3.1\q11.genruntimeconfig.cache

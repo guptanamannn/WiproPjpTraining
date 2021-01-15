@@ -1,0 +1,8 @@
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q2\q2\obj\Debug\q2.Properties.Resources.resources
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q2\q2\obj\Debug\q2.csproj.GenerateResource.cache
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q2\q2\obj\Debug\q2.csproj.CoreCompileInputs.cache
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q2\q2\bin\Debug\q2.exe.config
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q2\q2\bin\Debug\q2.exe
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q2\q2\bin\Debug\q2.pdb
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q2\q2\obj\Debug\q2.exe
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q2\q2\obj\Debug\q2.pdb

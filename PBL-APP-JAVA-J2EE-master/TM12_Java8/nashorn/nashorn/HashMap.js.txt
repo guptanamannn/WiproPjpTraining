@@ -1,0 +1,14 @@
+var HashMap = Java.type("java.util.HashMap");
+var newMap = Java.type("java.util.ArrayList");
+var map = new HashMap();
+map.put("India","Delhi");
+map.put("Armenia","Yerevan");
+map.put("Angola","Luanda");
+map.put("Algeria","Algiers");
+map.put("Albania","Tirana");
+var list = new newMap(map.keySet());
+for(var i=0;i<list.size();i++){
+	print("Country: "+list.get(i)+" , Capital: "+map.get(list.get(i)));
+}
+
+

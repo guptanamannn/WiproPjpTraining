@@ -1,0 +1,1 @@
+update employee set job_id=14 Where fname='Pedro' and lname='afonso'

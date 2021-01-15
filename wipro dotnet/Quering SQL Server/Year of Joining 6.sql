@@ -1,0 +1,1 @@
+select year(HireDate) as YearOfJoining from Employees

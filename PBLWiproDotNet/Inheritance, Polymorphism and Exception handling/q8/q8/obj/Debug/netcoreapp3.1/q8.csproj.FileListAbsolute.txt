@@ -1,0 +1,13 @@
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Inheritance, Polymorphism and Exception handling\q8\q8\bin\Debug\netcoreapp3.1\q8.exe
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Inheritance, Polymorphism and Exception handling\q8\q8\bin\Debug\netcoreapp3.1\q8.deps.json
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Inheritance, Polymorphism and Exception handling\q8\q8\bin\Debug\netcoreapp3.1\q8.runtimeconfig.json
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Inheritance, Polymorphism and Exception handling\q8\q8\bin\Debug\netcoreapp3.1\q8.runtimeconfig.dev.json
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Inheritance, Polymorphism and Exception handling\q8\q8\bin\Debug\netcoreapp3.1\q8.dll
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Inheritance, Polymorphism and Exception handling\q8\q8\bin\Debug\netcoreapp3.1\q8.pdb
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Inheritance, Polymorphism and Exception handling\q8\q8\obj\Debug\netcoreapp3.1\q8.csprojAssemblyReference.cache
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Inheritance, Polymorphism and Exception handling\q8\q8\obj\Debug\netcoreapp3.1\q8.AssemblyInfoInputs.cache
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Inheritance, Polymorphism and Exception handling\q8\q8\obj\Debug\netcoreapp3.1\q8.AssemblyInfo.cs
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Inheritance, Polymorphism and Exception handling\q8\q8\obj\Debug\netcoreapp3.1\q8.csproj.CoreCompileInputs.cache
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Inheritance, Polymorphism and Exception handling\q8\q8\obj\Debug\netcoreapp3.1\q8.dll
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Inheritance, Polymorphism and Exception handling\q8\q8\obj\Debug\netcoreapp3.1\q8.pdb
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Inheritance, Polymorphism and Exception handling\q8\q8\obj\Debug\netcoreapp3.1\q8.genruntimeconfig.cache

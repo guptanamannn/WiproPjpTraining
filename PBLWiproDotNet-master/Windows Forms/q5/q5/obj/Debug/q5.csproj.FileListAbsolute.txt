@@ -1,0 +1,10 @@
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q5\q5\obj\Debug\q5.csprojAssemblyReference.cache
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q5\q5\obj\Debug\q5.Properties.Resources.resources
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q5\q5\obj\Debug\q5.csproj.GenerateResource.cache
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q5\q5\obj\Debug\q5.csproj.CoreCompileInputs.cache
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q5\q5\bin\Debug\q5.exe.config
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q5\q5\bin\Debug\q5.exe
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q5\q5\bin\Debug\q5.pdb
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q5\q5\obj\Debug\q5.Form1.resources
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q5\q5\obj\Debug\q5.exe
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q5\q5\obj\Debug\q5.pdb

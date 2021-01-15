@@ -1,0 +1,9 @@
+C:\Users\Gupta\source\repos\q1\q1\obj\Debug\q1.csprojAssemblyReference.cache
+C:\Users\Gupta\source\repos\q1\q1\obj\Debug\q1.Properties.Resources.resources
+C:\Users\Gupta\source\repos\q1\q1\obj\Debug\q1.csproj.GenerateResource.cache
+C:\Users\Gupta\source\repos\q1\q1\obj\Debug\q1.csproj.CoreCompileInputs.cache
+C:\Users\Gupta\source\repos\q1\q1\bin\Debug\q1.exe.config
+C:\Users\Gupta\source\repos\q1\q1\bin\Debug\q1.exe
+C:\Users\Gupta\source\repos\q1\q1\bin\Debug\q1.pdb
+C:\Users\Gupta\source\repos\q1\q1\obj\Debug\q1.exe
+C:\Users\Gupta\source\repos\q1\q1\obj\Debug\q1.pdb

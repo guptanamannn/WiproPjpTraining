@@ -1,0 +1,1 @@
+select * from employee where day(hire_date)=28 or day(hire_date)=29 or day(hire_date)=30 or day(hire_date)=31

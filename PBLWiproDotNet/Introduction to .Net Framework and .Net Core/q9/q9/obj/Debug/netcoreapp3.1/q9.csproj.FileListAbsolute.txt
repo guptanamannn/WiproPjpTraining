@@ -1,0 +1,13 @@
+C:\Users\Gupta\Desktop\Wipro\repos\q9\q9\bin\Debug\netcoreapp3.1\q9.exe
+C:\Users\Gupta\Desktop\Wipro\repos\q9\q9\bin\Debug\netcoreapp3.1\q9.deps.json
+C:\Users\Gupta\Desktop\Wipro\repos\q9\q9\bin\Debug\netcoreapp3.1\q9.runtimeconfig.json
+C:\Users\Gupta\Desktop\Wipro\repos\q9\q9\bin\Debug\netcoreapp3.1\q9.runtimeconfig.dev.json
+C:\Users\Gupta\Desktop\Wipro\repos\q9\q9\bin\Debug\netcoreapp3.1\q9.dll
+C:\Users\Gupta\Desktop\Wipro\repos\q9\q9\bin\Debug\netcoreapp3.1\q9.pdb
+C:\Users\Gupta\Desktop\Wipro\repos\q9\q9\obj\Debug\netcoreapp3.1\q9.csprojAssemblyReference.cache
+C:\Users\Gupta\Desktop\Wipro\repos\q9\q9\obj\Debug\netcoreapp3.1\q9.AssemblyInfoInputs.cache
+C:\Users\Gupta\Desktop\Wipro\repos\q9\q9\obj\Debug\netcoreapp3.1\q9.AssemblyInfo.cs
+C:\Users\Gupta\Desktop\Wipro\repos\q9\q9\obj\Debug\netcoreapp3.1\q9.csproj.CoreCompileInputs.cache
+C:\Users\Gupta\Desktop\Wipro\repos\q9\q9\obj\Debug\netcoreapp3.1\q9.dll
+C:\Users\Gupta\Desktop\Wipro\repos\q9\q9\obj\Debug\netcoreapp3.1\q9.pdb
+C:\Users\Gupta\Desktop\Wipro\repos\q9\q9\obj\Debug\netcoreapp3.1\q9.genruntimeconfig.cache

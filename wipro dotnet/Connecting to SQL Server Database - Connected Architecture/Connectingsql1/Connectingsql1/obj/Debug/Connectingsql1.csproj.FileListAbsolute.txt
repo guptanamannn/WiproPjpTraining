@@ -1,0 +1,10 @@
+E:\C#\Connectingsql1\Connectingsql1\bin\Debug\Connectingsql1.exe.config
+E:\C#\Connectingsql1\Connectingsql1\bin\Debug\Connectingsql1.exe
+E:\C#\Connectingsql1\Connectingsql1\bin\Debug\Connectingsql1.pdb
+E:\C#\Connectingsql1\Connectingsql1\obj\Debug\Connectingsql1.csprojAssemblyReference.cache
+E:\C#\Connectingsql1\Connectingsql1\obj\Debug\Connectingsql1.Form1.resources
+E:\C#\Connectingsql1\Connectingsql1\obj\Debug\Connectingsql1.Properties.Resources.resources
+E:\C#\Connectingsql1\Connectingsql1\obj\Debug\Connectingsql1.csproj.GenerateResource.cache
+E:\C#\Connectingsql1\Connectingsql1\obj\Debug\Connectingsql1.csproj.CoreCompileInputs.cache
+E:\C#\Connectingsql1\Connectingsql1\obj\Debug\Connectingsql1.exe
+E:\C#\Connectingsql1\Connectingsql1\obj\Debug\Connectingsql1.pdb

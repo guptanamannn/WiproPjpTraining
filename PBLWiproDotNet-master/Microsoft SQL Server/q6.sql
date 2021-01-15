@@ -1,0 +1,2 @@
+
+select Hiredate from Employees

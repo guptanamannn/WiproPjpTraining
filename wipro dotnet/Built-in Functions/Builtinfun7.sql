@@ -1,0 +1,1 @@
+select * from employee where right(cast(salary as nvarchar),1)=1 or right(cast(salary as nvarchar),1)=3 or right(cast(salary as nvarchar),1)=5 or right(cast(salary as nvarchar),1)=7 or right(cast(salary as nvarchar),1)=9

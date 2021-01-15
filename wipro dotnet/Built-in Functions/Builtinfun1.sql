@@ -1,0 +1,1 @@
+select * from employee where month(hire_date)=1 or month(hire_date)=2 or month(hire_date)=3

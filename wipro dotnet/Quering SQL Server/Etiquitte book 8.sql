@@ -1,0 +1,1 @@
+select pub_name from publishers inner join titles on publishers.pub_id=titles.pub_id where titles.title='net etiquette'

@@ -1,0 +1,1 @@
+select * from employee where year(hire_date)=1981

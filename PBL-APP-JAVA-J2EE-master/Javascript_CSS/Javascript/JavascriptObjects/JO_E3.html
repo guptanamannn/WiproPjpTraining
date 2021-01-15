@@ -1,0 +1,22 @@
+<html>
+<title>
+	E3
+</title>
+<body>
+
+	<h3>
+		Remove Chars from String.
+	</h3>
+	<p>Enter String: <input type="text" id="string"> </p>
+	<p>Enter No of char to remove: <input type="text" id="num"> <input type="button" onclick="palindrom1()" value="Submit"></p>
+	<p>Resulted String: <span id="result"></span> </p>
+	<script type="text/javascript">
+			function palindrom1(){
+				var s = document.getElementById("string").value;
+				var n = document.getElementById("num").value;
+				document.getElementById("result").innerHTML = s.slice(n);
+			}
+		</script>
+		
+</body>
+</html>

@@ -1,0 +1,13 @@
+C:\Users\Gupta\source\repos\q1\q1\bin\Debug\netcoreapp3.1\q1.exe
+C:\Users\Gupta\source\repos\q1\q1\bin\Debug\netcoreapp3.1\q1.deps.json
+C:\Users\Gupta\source\repos\q1\q1\bin\Debug\netcoreapp3.1\q1.runtimeconfig.json
+C:\Users\Gupta\source\repos\q1\q1\bin\Debug\netcoreapp3.1\q1.runtimeconfig.dev.json
+C:\Users\Gupta\source\repos\q1\q1\bin\Debug\netcoreapp3.1\q1.dll
+C:\Users\Gupta\source\repos\q1\q1\bin\Debug\netcoreapp3.1\q1.pdb
+C:\Users\Gupta\source\repos\q1\q1\obj\Debug\netcoreapp3.1\q1.AssemblyInfoInputs.cache
+C:\Users\Gupta\source\repos\q1\q1\obj\Debug\netcoreapp3.1\q1.AssemblyInfo.cs
+C:\Users\Gupta\source\repos\q1\q1\obj\Debug\netcoreapp3.1\q1.csproj.CoreCompileInputs.cache
+C:\Users\Gupta\source\repos\q1\q1\obj\Debug\netcoreapp3.1\q1.dll
+C:\Users\Gupta\source\repos\q1\q1\obj\Debug\netcoreapp3.1\q1.pdb
+C:\Users\Gupta\source\repos\q1\q1\obj\Debug\netcoreapp3.1\q1.genruntimeconfig.cache
+C:\Users\Gupta\source\repos\q1\q1\obj\Debug\netcoreapp3.1\q1.csprojAssemblyReference.cache

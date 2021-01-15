@@ -1,0 +1,11 @@
+C:\Users\adithya\source\repos\InterestCalculator\InterestCalculator\bin\Debug\netcoreapp3.1\InterestCalculator.exe
+C:\Users\adithya\source\repos\InterestCalculator\InterestCalculator\bin\Debug\netcoreapp3.1\InterestCalculator.deps.json
+C:\Users\adithya\source\repos\InterestCalculator\InterestCalculator\bin\Debug\netcoreapp3.1\InterestCalculator.runtimeconfig.json
+C:\Users\adithya\source\repos\InterestCalculator\InterestCalculator\bin\Debug\netcoreapp3.1\InterestCalculator.runtimeconfig.dev.json
+C:\Users\adithya\source\repos\InterestCalculator\InterestCalculator\bin\Debug\netcoreapp3.1\InterestCalculator.dll
+C:\Users\adithya\source\repos\InterestCalculator\InterestCalculator\bin\Debug\netcoreapp3.1\InterestCalculator.pdb
+C:\Users\adithya\source\repos\InterestCalculator\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.csprojAssemblyReference.cache
+C:\Users\adithya\source\repos\InterestCalculator\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.AssemblyInfoInputs.cache
+C:\Users\adithya\source\repos\InterestCalculator\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.AssemblyInfo.cs
+C:\Users\adithya\source\repos\InterestCalculator\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.dll
+C:\Users\adithya\source\repos\InterestCalculator\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.pdb

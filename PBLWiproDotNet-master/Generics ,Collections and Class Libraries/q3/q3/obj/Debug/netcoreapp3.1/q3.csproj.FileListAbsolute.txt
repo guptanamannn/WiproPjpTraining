@@ -1,0 +1,12 @@
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Generics ,Collections and Class Libraries\q3\q3\bin\Debug\netcoreapp3.1\q3.exe
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Generics ,Collections and Class Libraries\q3\q3\bin\Debug\netcoreapp3.1\q3.deps.json
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Generics ,Collections and Class Libraries\q3\q3\bin\Debug\netcoreapp3.1\q3.runtimeconfig.json
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Generics ,Collections and Class Libraries\q3\q3\bin\Debug\netcoreapp3.1\q3.runtimeconfig.dev.json
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Generics ,Collections and Class Libraries\q3\q3\bin\Debug\netcoreapp3.1\q3.dll
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Generics ,Collections and Class Libraries\q3\q3\bin\Debug\netcoreapp3.1\q3.pdb
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Generics ,Collections and Class Libraries\q3\q3\obj\Debug\netcoreapp3.1\q3.AssemblyInfoInputs.cache
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Generics ,Collections and Class Libraries\q3\q3\obj\Debug\netcoreapp3.1\q3.AssemblyInfo.cs
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Generics ,Collections and Class Libraries\q3\q3\obj\Debug\netcoreapp3.1\q3.csproj.CoreCompileInputs.cache
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Generics ,Collections and Class Libraries\q3\q3\obj\Debug\netcoreapp3.1\q3.dll
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Generics ,Collections and Class Libraries\q3\q3\obj\Debug\netcoreapp3.1\q3.pdb
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Generics ,Collections and Class Libraries\q3\q3\obj\Debug\netcoreapp3.1\q3.genruntimeconfig.cache

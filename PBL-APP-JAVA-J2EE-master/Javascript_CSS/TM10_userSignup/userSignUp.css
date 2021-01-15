@@ -1,0 +1,41 @@
+body{
+  			background-color: purple;
+  		}
+#time1{
+  			position: absolute;
+  			top:10px;
+  			right:10px;
+  			color:white;
+  			font-weight: bold;
+  		}
+  		table{
+  			background-color: grey;
+  			margin:0 auto;
+  			margin-top: 50px;
+  			width: 50%;
+  			text-align:center;
+  			border-radius: 10px; 
+  		}
+  		td{
+  			padding-top:20px;
+  			padding-right:5px;
+  			padding-bottom:0px;
+  		}
+  		.changecolor:hover{
+  			background-color: grey;
+  			color: white;
+  			width:100%;
+  			border-radius: 4px;
+  			font-size: 14px;
+  			padding: 6px; 
+  			box-shadow: 5px 5px;
+  		}
+  		.changecolorbtn:hover{
+  			background-color: grey;
+  			color: white;
+  			border-radius: 4px;
+  			font-size: 14px;
+  			padding: 6px 12px; 
+  			box-shadow: 5px 5px;
+  			border: 1px solid white;
+}

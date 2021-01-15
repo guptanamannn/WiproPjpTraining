@@ -1,0 +1,8 @@
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q3\q3\bin\Debug\q3.exe.config
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q3\q3\bin\Debug\q3.exe
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q3\q3\bin\Debug\q3.pdb
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q3\q3\obj\Debug\q3.Properties.Resources.resources
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q3\q3\obj\Debug\q3.csproj.GenerateResource.cache
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q3\q3\obj\Debug\q3.csproj.CoreCompileInputs.cache
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q3\q3\obj\Debug\q3.exe
+C:\Users\Gupta\Desktop\PBLWiproDotNet\Windows Forms\q3\q3\obj\Debug\q3.pdb
